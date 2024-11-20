@@ -1,4 +1,4 @@
-## Projeto Oficina 03 - Módulo Básico
+## Projeto Oficina 03 - Módulo Básico | Capacitação turma FSN6 | Avanti Atlântico
 
 - Landing Page de agência de viagens 🗺️
 
